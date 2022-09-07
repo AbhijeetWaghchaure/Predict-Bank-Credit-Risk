@@ -7,6 +7,7 @@ Table of Contents
 
 
 Problem Statement
+
 Credit risk is defined as the risk of loss resulting from the failure by a borrower to repay the principal and interest owed to the leader. The lender uses the interest payments from the loan to compensate for the risk of potential losses. When the borrower defaults on his/her obligations, it causes an interruption in the cash flows of the lender.
 
 Most of the bank's wealth is obtained from providing credit loans so that a marketing bank must be able to reduce the risk of non-performing credit loans. The risk of providing loans can be minimized by studying patterns from existing lending data. One technique that you can use to solve this problem is to use data mining techniques. Data mining makes it possible to find hidden information from large data sets by way of classification. By using machine learning classification algorithms, we can build a model to predict whether the person, described by the attributes of the dataset, is a good (1) or a bad (0) credit risk.
